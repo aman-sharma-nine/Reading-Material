@@ -2,8 +2,6 @@
 
 # **Doing Research**
 
-
-
 **Dont Reinvent the wheel** 
 
 Whatever the problem, chances are that someone, some- where, has worked on something similar. Maybe that person is in your organization and can answer all your questions in the course of a phone call. Maybe other people in your field, in another division or another company, have seen the same problem already find out who they are and get to know them. Do your research and ask questions; you will save yourself a lot of time and effort. Your time is valuable, so don’t waste it by reinventing the wheel!
@@ -93,4 +91,7 @@ Tip #8
 Tip #9
 
 **ALWAYS WRITE A THANK-YOU NOTE**
+
+Reference- Rasiel, E. (1999). The McKinsey way. New York: McGraw-Hill.
+
 
